@@ -1,7 +1,7 @@
 # codedex_discord
 Final Project for Codedex
 
-##discord commands
+## discord commands
 $ping
     - Bot replies with "pong"
 
@@ -28,7 +28,7 @@ $gif
     - If no arguments, bot replies with random gif form giphy
     - If arguments are passed, bot replies with a gif from giphy after searching with the argumetns
     
-##Extensions
+## Extensions
 Currently only one extension that adds a new role upon the bot turning on or joining, just currently for testing purposes
 
 
